@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![KNJ Logo](assets/banner.png)
+![KNJ Logo](http://knj.gt.tc/logo_no_bg.png)
 
 **K** **N** **J** - Your Intelligent Desktop Companion
 
@@ -423,3 +423,4 @@ Made with ❤️ by the KNJ Team
 **[⬆ Back to Top](#-knj---ai-powered-desktop-assistant)**
 
 </div>
+
