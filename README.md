@@ -423,5 +423,3 @@ Made with ❤️ by the KNJ Team
 **[⬆ Back to Top](#-knj---ai-powered-desktop-assistant)**
 
 </div>
-#   k n j - c o d e r - - d e  
- 
