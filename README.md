@@ -18,7 +18,7 @@
 ## ✨ Features
 
 - 🎨 **Dynamic Theme System** - Three vibrant color themes (K: Blue, N: Green, J: Purple)
-- 🤖 **AI-Powered Chat** - Powered by Google Gemini 2.5 Flash, OpenAI GPT-4, or custom models
+- 🤖 **AI-Powered Chat** - Powered by knj 2.5 Flash, knj OpenAI, or custom models
 - 💾 **Persistent Storage** - Automatic conversation history and preferences saving
 - 🔒 **Secure Architecture** - Sandboxed Electron with CSP and proper isolation
 - 🐳 **Docker Support** - Easy deployment with Docker Compose
@@ -244,5 +244,6 @@ Made with ❤️ by the KNJ Team
 **[⬆ Back to Top](#-knj---ai-powered-desktop-assistant)**
 
 </div>
+
 
 
